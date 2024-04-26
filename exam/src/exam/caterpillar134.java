@@ -1,15 +1,15 @@
 package exam;
 
 public class caterpillar134 {
-	int moves,cabbages; 
+	int movess,cabbages; 
 	caterpillar134(int moves,int cabbages)
 	{
-		this.moves=moves;
+		this.movess=movess;
 		this.cabbages=cabbages;
 	}
-	int get_moves()
+	int get_movess()
 	{
-	return moves;
+	return movess;
 	}
 	 
 	
